@@ -1,6 +1,6 @@
 # RoboCup仿真3D中文教程
 
-![RoboCup](D:\RoboCup\图片\1.15.png)
+![RoboCup](图片/1.15.png)
 
 ​	RoboCup仿真3D中文教程（RoboCup Simulation 3D Chinese Tutorial，RCS3D-CT）是介绍RoboCup机器人世界杯中仿真3D比赛的中文教程，主要对比赛的历程和主要内容进行介绍，帮助新参与比赛的队伍了解比赛，并快速上手底层，进行开发。
 
